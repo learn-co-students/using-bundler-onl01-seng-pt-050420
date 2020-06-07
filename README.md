@@ -325,7 +325,7 @@ To take advantage of all of the work we did in the environment file, let's requi
 **Place the following code in `bin/run.rb`:**
 
 ```ruby
-require_relative '../config/environment'
+
 ```
 
 That's it! Now we can access all of our gems from our `run.rb` file.
